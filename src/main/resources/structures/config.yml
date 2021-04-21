@@ -1,0 +1,84 @@
+drop_items:
+  enchanted_golden_apple:
+    relative_chance: 2
+    amount: 1
+  ender_pearl:
+    relative_chance: 1
+    amount: 3
+  golden_apple:
+    relative_chance: 3
+    amount: 1
+  diamond_block:
+    relative_chance: 1
+    amount: 1
+  emerald_block:
+    relative_chance: 1
+    amount: 1
+  gold_block:
+    relative_chance: 1
+    amount: 1
+  iron_block:
+    relative_chance: 3
+    amount: 1
+  enchanting_table:
+    relative_chance: 2
+    amount: 1
+  obsidian:
+    relative_chance: 2
+    amount: 16
+  diamond:
+    relative_chance: 2
+    amount: 1
+  gold_ingot:
+    relative_chance: 2
+    amount: 1
+  enchanted_book:
+    relative_chance: 4
+    amount: 1
+  potion:
+    relative_chance: 4
+    amount: 1
+  emerald:
+    relative_chance: 2
+    amount: 1
+  netherite_ingot:
+    relative_chance: 1
+    amount: 1
+  anvil:
+    relative_chance: 1
+    amount: 1
+  experience_bottle:
+    relative_chance: 3
+    amount: 16
+  bookshelf:
+    relative_chance: 1
+    amount: 16
+  tnt:
+    relative_chance: 2
+    amount: 16
+  elytra:
+    relative_chance: 1
+    amount: 1
+  firework_rocket:
+    relative_chance: 2
+    amount: 64
+  totem_of_undying:
+    relative_chance: 3
+    amount: 1
+enchants_list:
+  - sharpness
+  - infinity
+  - flame
+  - unbreaking
+  - power
+  - punch
+  - efficiency
+  - knockback
+  - protection
+potion_effects:
+  - speed
+  - increase_damage
+  - fire_resistance
+  - jump
+  - levitation
+  - fast_digging

@@ -1,0 +1,126 @@
+pyramid:
+  gunpowder:
+    count: 1
+  cobweb:
+    count: 1
+  spider_eye:
+    count: 1
+  iron_ingot:
+    count: 1
+  golden_apple:
+    count: 1
+  enchanted_golden_apple:
+    count: 1
+  dirt:
+    count: 1
+bastion:
+  crying_obsidian:
+    count: 2
+  iron_nugget:
+    count: 1
+  gold_nugget:
+    count: 1
+  gold_ingot:
+    count: 1
+  flint:
+    count: 1
+  obsidian:
+    count: 2
+fortress:
+  diamond_horse_armor:
+    count: 1
+  golden_sword:
+    count: 1
+  flint_and_steel:
+    count: 1
+  iron_horse_armor:
+    count: 1
+  golden_chestplate:
+    count: 1
+  obsidian:
+    count: 2
+  golden_horse_armor:
+    count: 1
+  diamond:
+    count: 1
+  saddle:
+    count: 1
+  iron_ingot:
+    count: 1
+  nether_wart:
+    count: 1
+  gold_ingot:
+    count: 1
+stronghold:
+  diamond_block:
+    count: 1
+  enchanted_book:
+    count: 1
+  experience_bottle:
+    count: 32
+  iron_block:
+    count: 1
+  golden_apple:
+    count: 2
+  diamond_chestplate:
+    count: 1
+  diamond_pickaxe:
+    count: 1
+  ender_pearl:
+     count: 1
+pillager_outpost:
+  crossbow:
+    count: 1
+  iron_ingot:
+    count: 1
+  tripwire_hook:
+    count: 1
+  experience_bottle:
+    count: 1
+  string:
+    count: 1
+  arrow:
+    count: 2
+  potato:
+    count: 1
+  carrot:
+    count: 1
+  wheat:
+    count: 1
+end_city:
+  crossbow:
+    count: 1
+    iron_ingot:
+      count: 1
+    tripwire_hook:
+      count: 1
+    experience_bottle:
+      count: 1
+    string:
+      count: 1
+    arrow:
+      count: 2
+    potato:
+      count: 1
+    carrot:
+      count: 1
+    wheat:
+      count: 1
+enchants_list:
+  - sharpness
+  - infinity
+  - flame
+  - unbreaking
+  - power
+  - punch
+  - efficiency
+  - knockback
+  - protection
+potion_effects:
+  - speed
+  - increase_damage
+  - fire_resistance
+  - jump
+  - levitation
+  - fast_digging
+
