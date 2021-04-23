@@ -1,6 +1,5 @@
 package me.swipez.structurebase;
 
-import me.swipez.structurebase.generator.RandomLootGenerator;
 import me.swipez.structurebase.items.CraftableBlocks;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -23,9 +22,6 @@ public final class StructureBase extends JavaPlugin {
     public void onEnable() {
         plugin = this;
         CraftableBlocks.initRecipes(this);
-        saveDefaultConfig();
-        getConfig().options().copyDefaults();
-        RandomLootGenerator.buildLists();
         File directory = new File(plugin.getDataFolder() + "/structures");
         if(!directory.exists()){
             directory.mkdir();
